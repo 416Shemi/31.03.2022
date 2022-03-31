@@ -13,9 +13,9 @@ namespace ConsoleApp28.Models
             FileName = fileName;
             WordCount = wordCount;
         }
-        static void Print()
+        public void Print(string FileName, int WordCount)
         {
-            Console.WriteLine("FileName printed");
+            Console.WriteLine($"FileName:{FileName} WordCount:{WordCount}");
         }
     }
 }

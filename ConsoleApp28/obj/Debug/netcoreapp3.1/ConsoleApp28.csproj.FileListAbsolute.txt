@@ -3,3 +3,17 @@ C:\Users\Acer\Desktop\task3\ConsoleApp28\ConsoleApp28\obj\Debug\netcoreapp3.1\Co
 C:\Users\Acer\Desktop\task3\ConsoleApp28\ConsoleApp28\obj\Debug\netcoreapp3.1\ConsoleApp28.AssemblyInfoInputs.cache
 C:\Users\Acer\Desktop\task3\ConsoleApp28\ConsoleApp28\obj\Debug\netcoreapp3.1\ConsoleApp28.AssemblyInfo.cs
 C:\Users\Acer\Desktop\task3\ConsoleApp28\ConsoleApp28\obj\Debug\netcoreapp3.1\ConsoleApp28.csproj.CoreCompileInputs.cache
+C:\Users\tu7ngcsvr\Desktop\31.03.2022\ConsoleApp28\bin\Debug\netcoreapp3.1\ConsoleApp28.exe
+C:\Users\tu7ngcsvr\Desktop\31.03.2022\ConsoleApp28\bin\Debug\netcoreapp3.1\ConsoleApp28.deps.json
+C:\Users\tu7ngcsvr\Desktop\31.03.2022\ConsoleApp28\bin\Debug\netcoreapp3.1\ConsoleApp28.runtimeconfig.json
+C:\Users\tu7ngcsvr\Desktop\31.03.2022\ConsoleApp28\bin\Debug\netcoreapp3.1\ConsoleApp28.runtimeconfig.dev.json
+C:\Users\tu7ngcsvr\Desktop\31.03.2022\ConsoleApp28\bin\Debug\netcoreapp3.1\ConsoleApp28.dll
+C:\Users\tu7ngcsvr\Desktop\31.03.2022\ConsoleApp28\bin\Debug\netcoreapp3.1\ConsoleApp28.pdb
+C:\Users\tu7ngcsvr\Desktop\31.03.2022\ConsoleApp28\obj\Debug\netcoreapp3.1\ConsoleApp28.csproj.AssemblyReference.cache
+C:\Users\tu7ngcsvr\Desktop\31.03.2022\ConsoleApp28\obj\Debug\netcoreapp3.1\ConsoleApp28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7ngcsvr\Desktop\31.03.2022\ConsoleApp28\obj\Debug\netcoreapp3.1\ConsoleApp28.AssemblyInfoInputs.cache
+C:\Users\tu7ngcsvr\Desktop\31.03.2022\ConsoleApp28\obj\Debug\netcoreapp3.1\ConsoleApp28.AssemblyInfo.cs
+C:\Users\tu7ngcsvr\Desktop\31.03.2022\ConsoleApp28\obj\Debug\netcoreapp3.1\ConsoleApp28.csproj.CoreCompileInputs.cache
+C:\Users\tu7ngcsvr\Desktop\31.03.2022\ConsoleApp28\obj\Debug\netcoreapp3.1\ConsoleApp28.dll
+C:\Users\tu7ngcsvr\Desktop\31.03.2022\ConsoleApp28\obj\Debug\netcoreapp3.1\ConsoleApp28.pdb
+C:\Users\tu7ngcsvr\Desktop\31.03.2022\ConsoleApp28\obj\Debug\netcoreapp3.1\ConsoleApp28.genruntimeconfig.cache

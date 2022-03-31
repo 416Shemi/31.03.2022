@@ -4,13 +4,14 @@ using System.Text;
 
 namespace ConsoleApp28.Models
 {
-    class PrintFileList<T> : IPrintable
+    class PrintFileGeneric<T>
+       where T:IPrintable
     {
-        public string FileName { get; set ; }
+      public void Print(T file)
+       {
+            file.Print();
+       }
         
     }
-    static void Print()
-    {
-        Console.WriteLine("FileName printed");
-    }
+   
 }

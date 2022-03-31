@@ -7,9 +7,9 @@ namespace ConsoleApp28
     interface IPrintable
     {
         public string FileName { get; set; }
-       static void Print()
+       public void Print()
        {
-
+            
        }
     }
 }

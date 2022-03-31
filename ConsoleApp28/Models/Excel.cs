@@ -15,9 +15,9 @@ namespace ConsoleApp28.Models
             ColumnCaunt = columnCaunt;
             RowCaunt = cowCaunt;
         }
-        static void Print()
+        public void Print( string FileName, int ColumnCaunt, int RowCaunt)
         {
-            Console.WriteLine("FileName printed");
+            Console.WriteLine($"FileName:{FileName} ColumnCaunt:{ColumnCaunt} RowCaunt:{RowCaunt}");
         }
     }
 }

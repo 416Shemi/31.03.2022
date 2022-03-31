@@ -7,15 +7,15 @@ namespace ConsoleApp28.Models
     class Pdf : IPrintable
     {
         public string FileName { get ; set; }
-        public string PageCount { get; set; }
-        public Pdf(string fileName, string pageCount)
+        public int PageCount { get; set; }
+        public Pdf(string fileName, int pageCount)
         {
             FileName = fileName;
             PageCount = pageCount;
         }
-        static void Print()
+       public void Print(string FileName, int PageCount)
         {
-            Console.WriteLine("FileName printed");
+            Console.WriteLine($"FileName:{FileName} PageCount{PageCount}");
         }
     }
 }
